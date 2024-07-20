@@ -1,0 +1,9 @@
+{
+  "parent": "plushies:custom/astral_plushie",
+  "textures": {
+    "all": "plushies:block/astral_plushie",
+    "particle": "plushies:block/cotton",
+    "0": "plushies:block/astral_plushie"
+  },
+  "render_type": "cutout_mipped"
+}

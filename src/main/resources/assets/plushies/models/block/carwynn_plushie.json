@@ -1,0 +1,9 @@
+{
+  "parent": "plushies:custom/carwynn_plushie",
+  "textures": {
+    "all": "plushies:block/carwynn_plushie",
+    "particle": "plushies:block/cotton",
+    "0": "plushies:block/carwynn_plushie"
+  },
+  "render_type": "cutout_mipped"
+}

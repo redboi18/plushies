@@ -1,0 +1,19 @@
+{
+  "sqeak": {
+    "subtitle": "subtitles.sqeak",
+    "sounds": [
+      {
+        "name": "plushies:sqeak1",
+        "stream": false
+      },
+      {
+        "name": "plushies:sqeak3",
+        "stream": false
+      },
+      {
+        "name": "plushies:speak2",
+        "stream": false
+      }
+    ]
+  }
+}
